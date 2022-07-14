@@ -1,0 +1,353 @@
+
+.home_wrrpr{}
+
+.container{}
+
+
+
+.home_banner{
+  /* width: 100%; */
+}
+
+.home_dv1{}
+.home_dv2{
+  height: 100vh;
+  width: 100%;
+  /* background: #000; */
+  /* background: linear-gradient(45deg, rgb(0 0 0), rgb(54 54 54)); */
+  background-position: center;
+  background-size: cover;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-end;
+}
+
+.home_dv3{
+  height: 100%;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.home_title{
+  display: flex;
+  align-items: flex-start;
+  position: relative;
+  margin-bottom: 25px;
+}
+.home_title img{
+  width: 600px;
+  max-width: 100%;
+}
+.home_title h1{
+  margin: 0;
+  font-size: 180px;
+  color: #a4681f;
+  text-transform: uppercase;
+  text-shadow: 5px 5px 0px #ffffff;
+  line-height: 1;
+}
+.home_title span{
+  margin: 0;
+  font-size: 50px;
+  color: #a4681f;
+  text-transform: uppercase;
+  text-shadow: 2px 1px 0px #ffffff;
+  line-height: 1;
+}
+
+.home_buttons{
+  padding: 0;
+  margin: 0;
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  align-items: center;
+}
+.home_buttons li{
+  list-style: none;
+}
+.home_buttons li .btn{
+  background: #020202;
+  display: flex;
+  height: 60px;
+  width: 180px;
+  font-size: 18px;
+  justify-content: center;
+  align-items: center;
+  color: #ffe3bb;
+  text-transform: uppercase;
+  font-weight: 500;
+  border-radius: 5px;
+  cursor: pointer;
+  border: hidden;
+  padding-top: 5px;
+  border-bottom: 5px solid #ffe3bb;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.popup_style1{}
+.popup_style1 *{
+  /* color: #ffffff; */
+}
+.popup_style1 .ant-modal-content{
+  background: #0c0c0c;
+}
+.popup_style1 .ant-modal-close{}
+.popup_style1 .ant-modal-header{
+  background: #0c0c0c;
+}
+.popup_style1 .ant-modal-body{}
+
+
+.ant-modal-title{
+  color: #ffffff !important;
+}
+.anticon{}
+.anticon svg{
+  color: #fff;
+}
+
+.ant-form-item-label>label{
+  color: #fff !important;
+}
+
+
+.ant-modal-content,
+.ant-modal-header{
+  background-color: #000 !important;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.modal_foter{
+  text-align: center;
+}
+.modal_foter .ant-btn {
+  margin: 0 5px;
+}
+.modal_foter .ant-btn-primary{}
+
+
+.popup_style1 .anticon-plus svg{
+  color: #000;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
